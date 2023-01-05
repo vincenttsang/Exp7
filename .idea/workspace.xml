@@ -5,17 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c0669f1-0289-4b27-bff5-9ee568f7527c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode8Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_8.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/MainApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/MainApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode1Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode1Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode2Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode2Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode3Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode3Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode4Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode4Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode5Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode5Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode6Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode6Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode7Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/vincent/exp7/Mode7Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/main-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/main-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_1.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_1.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_2.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_3.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_3.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_4.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_4.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_5.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_5.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_6.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_6.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_7.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/vincent/exp7/mode_7.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -25,19 +55,71 @@
     </option>
   </component>
   <component name="ProjectId" id="2JqVgvKPqLpsbCxIrmNxB0fwek9" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/vincent/IdeaProjects/Exp7/src/main/resources/vincent/exp7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/vincent/exp7" />
+      <recent name="$PROJECT_DIR$/src/main/java/vincent/exp7" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="vincent.exp7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MainApplication">
+    <configuration name="MainApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vincent.exp7.MainApplication" />
+      <module name="Exp7" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vincent.exp7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exp7-1.0-SNAPSHOT-tests.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Exp7-1.0-SNAPSHOT-tests.jar" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Exp7-1.0-SNAPSHOT.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/target/Exp7-1.0-SNAPSHOT.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainApplication" />
+        <item itemvalue="JAR Application.Exp7-1.0-SNAPSHOT-tests.jar" />
+        <item itemvalue="JAR Application.Exp7-1.0-SNAPSHOT.jar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,8 +128,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1672805716449</updated>
-      <workItem from="1672805717625" duration="1000" />
+      <workItem from="1672805717625" duration="6521000" />
+      <workItem from="1672840639579" duration="2236000" />
+      <workItem from="1672844855863" duration="277000" />
+      <workItem from="1672845138253" duration="5490000" />
+      <workItem from="1672850685574" duration="225000" />
+      <workItem from="1672851035308" duration="390000" />
+      <workItem from="1672884297796" duration="3185000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
